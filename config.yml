@@ -1,0 +1,18 @@
+parameters:
+  'name': AAA11
+  'numbers_of_riders': [2,3]
+  'iterations': 1
+  'grid_x': 20
+  'grid_y': 20
+  'seed': 5451
+  'uniform_low': 0
+  'uniform_high': 10
+  'cost_flag': "Random"
+  'cost': [10,30]
+  'capacity_flag': "Random"
+  'capacity':
+    'pool':  [4,6,8,10]
+    'probabilities': [0.5,0.1,0.3,0.1]
+  'lambda': 5
+  'number_of_depots': 3
+  'maximum_number_of_cars': 10
