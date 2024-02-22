@@ -12,9 +12,9 @@ Instructions are provide for any Linux distribution. Windows users can WSL
     - python3.10-venv
 
 ### How to use
-    - run setup.sh. Make sure it has permission to run
-    - run rs_env/bin/activate
-    - you can now run simulations. Use config.yml to pass parameters to the simulator. then use run.sh
+
+    - make sure the packages in requirements are installed in your distribution and run.sh has permission to run.
+    - Use config.yml to pass parameters to the simulator. then use run.sh
  
 If you prefer to run the simulation manually for any reason, follow the general instructions below:
 
