@@ -1,4 +1,4 @@
-# DynamicRidesharing
+# Dynamic Ridesharing Simulations
 This is a repository for the code of the paper "Online Decentralised Mechanisms for Dynamic Ridesharing", which will appear in AAMAS 2024. 
 
 A link to the paper will be added soon.
